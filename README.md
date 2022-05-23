@@ -1,7 +1,7 @@
 ## Hey there! 👋
 
 ```diff
-You can call me Sté/Nyx. I am a front-end developer, I.T graduated (2015)
+You can call me Sté/Nyx. I am a front-end developer, I.T graduate (2015)
 and lifelong leaner. Here you will find my personal and study projects.
 
 Focusing on my stack for the time being, but always open to new 
