@@ -1,8 +1,10 @@
 ## Hey there! 👋
 
+<img src="https://github.githubassets.com/images/modules/profile/profile-joined-github-dark.svg" align="right" width="450"> 
+
 ```diff
-You can call me Sté/Nyx. I am a front-end developer, I.T graduate (2015)
-and lifelong leaner. Here you will find my personal and study projects.
+I am a front-end developer, I.T graduate (2015) and lifelong leaner.
+Here you will find my personal and study projects.
 
 Focusing on my stack for the time being, but always open to new 
 technologies and opportunities.
