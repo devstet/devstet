@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-<img src="https://github.githubassets.com/images/modules/profile/profile-joined-github-dark.svg" align="right" width="450"> 
+<img src="https://github.githubassets.com/images/modules/profile/profile-joined-github-dark.svg" align="right" width="410"> 
 
 ```diff
 I am a front-end developer, I.T graduate (2015) and lifelong leaner.
