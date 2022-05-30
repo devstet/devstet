@@ -6,9 +6,8 @@ Here you will find my personal and study projects.
 
 Focusing on my stack for the time being, but always open to new 
 technologies and opportunities.
-
-When I'm not coding, I like playing video games and watching films!
 ```
+
 <details>
 <summary>Stack</summary>
 <br>
